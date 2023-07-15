@@ -84,4 +84,4 @@ If you encounter any issues or have suggestions for improvement, please open an 
 
 ---
 
-Thank you for your interest in this backend application, You can give a star if you like this application. In case if you have any questions or need further assistance, feel free to reach out. Happy coding!
+Thank you for your interest , You can give a star if you like this mern application. In case if you have any questions or need further assistance, feel free to reach out. Happy coding!
